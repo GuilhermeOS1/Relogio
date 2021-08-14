@@ -1,0 +1,20 @@
+body {
+	background-color: #6A5ACD;
+}
+
+.hora {
+	text-align: center;
+	font-family: "arial";
+	box-sizing: border-box;
+	color: #363636;
+	font-size: 60px;
+}
+
+#relogio {
+	text-align: center;
+	font-family: "arial";
+	box-sizing: border-box;
+	margin-top: 20%;
+	color: #363636;
+	font-size: 60px;
+}
